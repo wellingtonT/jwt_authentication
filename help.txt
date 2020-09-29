@@ -1,0 +1,2 @@
+npm i http express cookie-parser body-parser
+npm i jsonwebtoken dotenv-safe
